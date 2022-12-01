@@ -12,3 +12,6 @@ Los usarios de prueba son:
 
 Visualización de prueba:
 
+https://user-images.githubusercontent.com/41553721/204962676-dc828e45-cc71-4040-9b1b-8b3e487597ff.mp4
+
+
