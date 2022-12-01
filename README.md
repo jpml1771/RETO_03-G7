@@ -1,6 +1,6 @@
-# reto3
+# Reto 3 - Grupo 7 - NRC 2289
 
-A new Flutter project.
+Proyecto de RETO 03
 
 ## Getting Started
 
