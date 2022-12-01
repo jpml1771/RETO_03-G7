@@ -2,15 +2,13 @@
 
 Proyecto de RETO 03
 
-## Getting Started
+## A continuación, se presenta el reto 03 resulto según ejercicios realizados en clase
 
-This project is a starting point for a Flutter application.
+Los usarios de prueba son:
 
-A few resources to get you started if this is your first Flutter project:
+- andres@gmail.com / 123456
+- carlos@gmail.com / 123456
+- alfonso@gmail.com / 123456
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Visualización de prueba:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
